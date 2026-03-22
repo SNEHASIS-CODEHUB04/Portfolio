@@ -273,7 +273,7 @@ type PatternLevel = {
 };
 
 function makePatterns(): PatternLevel[] {
-  return [
+  const levels: PatternLevel[] = [
     // Easy — arithmetic
     {sequence:[2,4,6,8,"?"],choices:[9,10,11,12],answer:10,label:"Find the next number",difficulty:"Easy"},
     {sequence:[1,3,9,27,"?"],choices:[54,81,72,63],answer:81,label:"Find the next number",difficulty:"Easy"},
@@ -286,7 +286,8 @@ function makePatterns(): PatternLevel[] {
     {sequence:[1,4,9,16,25,"?"],choices:[30,36,42,49],answer:36,label:"Perfect squares — next?",difficulty:"Hard"},
     {sequence:[3,6,11,18,27,"?"],choices:[36,38,40,42],answer:38,label:"Find the pattern",difficulty:"Hard"},
     {sequence:["🔴","🔴","🔵","🔴","🔴","🔵","?"],choices:["🔵","🔴","🟢","🟡"],answer:"🔴",label:"Find the next shape",difficulty:"Hard"},
-  ].sort(()=>Math.random()-0.5);
+  ];
+  return levels.sort(()=>Math.random()-0.5);
 }
 
 function PatternGame(){

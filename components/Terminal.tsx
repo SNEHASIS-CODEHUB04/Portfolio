@@ -98,10 +98,13 @@ const COMMANDS: Record<string, () => Line[]> = {
   ],
   experience: () => [
     { type: "info", text: "[ experience/ ]" },
-    { type: "output", text: "<cyan>Full Stack Development Intern</cyan>" },
+    { type: "output", text: "<cyan>Graduate Engineer Trainee (GET) – Blockchain Team and Op.</cyan>" },
     { type: "output", text: "  Vara Infrovate Pvt. Ltd. · On-Site" },
-    { type: "output", text: "  Jan 2026 – Present" },
-    { type: "output", text: "  Building production-grade web apps in agile workflows." },
+    { type: "output", text: "  Sep 2026 – Present" },
+    { type: "output", text: "" },
+    { type: "output", text: "<cyan>Intern – Blockchain Team and Op.</cyan>" },
+    { type: "output", text: "  Vara Infrovate Pvt. Ltd. · On-Site" },
+    { type: "output", text: "  Jan 2026 – Aug 2026" },
   ],
   education: () => [
     { type: "info", text: "[ education/ ]" },

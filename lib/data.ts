@@ -113,8 +113,17 @@ export const services = [
 
 export const experience = [
   {
-    period: "Jan 2026 – Present",
-    role: "Full Stack Development Intern",
+    period: "Sep 2026 – Present",
+    role: "Graduate Engineer Trainee (GET) – Blockchain Team and Op.",
+    company: "Vara Infrovate Pvt. Ltd.",
+    type: "On-Site",
+    description:
+      "Working as a Graduate Engineer Trainee within the Blockchain Team and Operations division, contributing to blockchain-based solutions and production workflows.",
+    logo: "https://static.wixstatic.com/media/b6b3c9_8211f6d81cfd474c880e6bbcb82055ea~mv2.webp/v1/fill/w_108,h_88,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Vara-Logo.webp",
+  },
+  {
+    period: "Jan 2026 – Aug 2026",
+    role: "Intern – Blockchain Team and Op.",
     company: "Vara Infrovate Pvt. Ltd.",
     type: "On-Site",
     description:

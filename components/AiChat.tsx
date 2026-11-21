@@ -9,7 +9,7 @@ type Message = { role: "user" | "bot"; text: string };
 const KB: { patterns: RegExp[]; answer: string }[] = [
   {
     patterns: [/who are you|about you|introduce|yourself|snehasis/i],
-    answer: "I'm Snehasis Dutta — a Full Stack Developer from Kirnahar, West Bengal, India. 🚀 I'm currently pursuing B.Tech in CSE at Kalyani Government Engineering College (2022–2026) with a CGPA of 8.70, and interning at Vara Infrovate Pvt. Ltd. as a Full Stack Development Intern.",
+    answer: "I'm Snehasis Dutta — a Full Stack Developer from Kirnahar, West Bengal, India. 🚀 I'm currently pursuing B.Tech in CSE at Kalyani Government Engineering College (2022–2026) with a CGPA of 8.58, and working as a Graduate Engineer Trainee at Vara Infrovate Pvt. Ltd. (Blockchain Team and Op.).",
   },
   {
     patterns: [/project|built|work|portfolio/i],
@@ -21,11 +21,11 @@ const KB: { patterns: RegExp[]; answer: string }[] = [
   },
   {
     patterns: [/education|college|school|degree|study|cgpa|academic/i],
-    answer: `📚 Education:\n\n🎓 B.Tech — CSE @ Kalyani Government Engineering College (2022–2026) · CGPA: 8.70\n📖 Higher Secondary (WBCHSE) @ Kirnahar Shib Chandra High School (2021–2022) · 96.20%\n📖 Secondary (WBBSE) @ Kirnahar Shib Chandra High School (2019–2020) · 93.85%`,
+    answer: `📚 Education:\n\n🎓 B.Tech — CSE @ Kalyani Government Engineering College (2022–2026) · CGPA: 8.58\n📖 Higher Secondary (WBCHSE) @ Kirnahar Shib Chandra High School (2021–2022) · 96.20%\n📖 Secondary (WBBSE) @ Kirnahar Shib Chandra High School (2019–2020) · 93.85%`,
   },
   {
     patterns: [/experience|intern|job|work|vara|company/i],
-    answer: "💼 Snehasis is currently a Full Stack Development Intern at Vara Infrovate Pvt. Ltd. (On-Site) since January 2026. He's building and maintaining production-grade web applications using modern frameworks in agile workflows.",
+    answer: "💼 Snehasis is currently a Graduate Engineer Trainee (GET) at Vara Infrovate Pvt. Ltd. (Blockchain Team and Op., On-Site, Kolkata) since Sep 2026. He worked on Bhumichain and Annapurna Chain (Blockchain India Challenge MVP) for Manual/Performance Testing, and continues on CertCheck (V2) and Tata Tubes.\n\nPreviously (Jan–Aug 2026) he was an Intern on the same team — core contributor to CertCheck (V2), a blockchain-based document verification platform live in production, handling microservices (NestJS, RabbitMQ), frontend (Next.js), QA (Swagger, Postman, Manual), VAPT, and performance testing (JMeter).",
   },
   {
     patterns: [/contact|email|reach|hire|connect/i],

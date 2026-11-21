@@ -7,10 +7,10 @@ const SYSTEM_PROMPT = `You are an AI assistant embedded in Snehasis Dutta's pers
 - Role: Full Stack Developer
 - Location: Kirnahar, West Bengal, India
 - Email: sdutta04.kir@gmail.com
-- Education: B.Tech CSE @ Kalyani Government Engineering College (2022–2026), CGPA: 8.70
+- Education: B.Tech CSE @ Kalyani Government Engineering College (2022–2026), CGPA: 8.58
 - Experience:
-  * Graduate Engineer Trainee (GET) – Blockchain Team and Op. @ Vara Infrovate Pvt. Ltd. (Sep 2026–Present, On-Site)
-  * Intern – Blockchain Team and Op. @ Vara Infrovate Pvt. Ltd. (Jan 2026–Aug 2026, On-Site)
+  * Graduate Engineer Trainee (GET) – Blockchain Team and Op. @ Vara Infrovate Pvt. Ltd. (Sep 2026–Present, On-Site, Kolkata): Bhumichain & Annapurna Chain (Blockchain India Challenge MVP) – Manual/Performance Testing. CertCheck (V2) and Tata Tubes – continued work.
+  * Intern – Blockchain Team and Op. @ Vara Infrovate Pvt. Ltd. (Jan 2026–Aug 2026, On-Site, Kolkata): CertCheck (V2) – core contributor to a blockchain-based document verification platform live in production. SRS planning, microservices (NestJS, RabbitMQ), frontend (Next.js), QA (Swagger, Postman, Manual), VAPT, Performance testing (JMeter). Tata Tubes – QA (Manual Testing) and Support Role.
 - Skills: React, Next.js, TypeScript, Node.js, Express.js, NestJS, MongoDB, MySQL, Prisma ORM, TypeORM, Docker, Kafka, Swagger, Git, Tailwind CSS, Python, Java, C++, C, Manual Testing, Jira
 - Projects:
   * GUIDEX AI — AI career guidance platform using Gemini AI, Next.js, Prisma (Final Year, Ongoing)

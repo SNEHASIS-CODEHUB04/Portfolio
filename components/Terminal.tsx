@@ -7,7 +7,7 @@ import { X, Minus, Square, Settings } from "lucide-react";
 const INFO = {
   user: "Snehasis Dutta",
   role: "Full Stack Developer",
-  experience: "Intern @ Vara Infrovate Pvt. Ltd.",
+  experience: "GET – Blockchain Team @ Vara Infrovate Pvt. Ltd.",
   skills: "React · Next.js · Node.js · TypeScript · Tailwind · NestJS · Docker",
   projects: "6 Active Projects",
   shell: "snehasis-sh",
@@ -68,7 +68,7 @@ const COMMANDS: Record<string, () => Line[]> = {
     { type: "output", text: "" },
     { type: "output", text: `Hi, I'm <cyan>${INFO.user}</cyan>, a ${INFO.role}.` },
     { type: "output", text: "I build scalable full-stack web apps with modern tech." },
-    { type: "output", text: "Currently interning at Vara Infrovate Pvt. Ltd. (On-Site)." },
+    { type: "output", text: "Currently GET at Vara Infrovate Pvt. Ltd. (Blockchain Team, On-Site, Kolkata)." },
     { type: "output", text: "Solved 400+ problems on LeetCode · CodeChef Max: 1366." },
   ],
   whoami: () => [
@@ -108,7 +108,7 @@ const COMMANDS: Record<string, () => Line[]> = {
   ],
   education: () => [
     { type: "info", text: "[ education/ ]" },
-    { type: "output", text: "<cyan>B.Tech — CSE</cyan>  Kalyani Govt. Engineering College  2022–2026  CGPA: 8.70" },
+    { type: "output", text: "<cyan>B.Tech — CSE</cyan>  Kalyani Govt. Engineering College  2022–2026  CGPA: 8.58" },
     { type: "output", text: "<cyan>Higher Secondary</cyan>  Kirnahar Shib Chandra HS  2021–2022  96.20%" },
     { type: "output", text: "<cyan>Secondary</cyan>         Kirnahar Shib Chandra HS  2019–2020  93.85%" },
   ],
@@ -130,7 +130,7 @@ const COMMANDS: Record<string, () => Line[]> = {
   "git log": () => [
     { type: "info", text: "commit history" },
     { type: "output", text: "<cyan>a1b2c3d</cyan> feat: add GUIDEX AI final year project" },
-    { type: "output", text: "<cyan>e4f5g6h</cyan> feat: full-stack internship @ Vara Infrovate" },
+    { type: "output", text: "<cyan>e4f5g6h</cyan> feat: GET role @ Vara Infrovate Blockchain Team" },
     { type: "output", text: "<cyan>i7j8k9l</cyan> feat: collab board with real-time sync" },
     { type: "output", text: "<cyan>m1n2o3p</cyan> feat: AI article summarizer chrome extension" },
     { type: "output", text: "<cyan>q4r5s6t</cyan> init: portfolio v2 with Next.js + Tailwind" },

@@ -116,18 +116,18 @@ export const experience = [
     period: "Sep 2026 – Present",
     role: "Graduate Engineer Trainee (GET) – Blockchain Team and Op.",
     company: "Vara Infrovate Pvt. Ltd.",
-    type: "On-Site",
+    type: "On-Site, Kolkata",
     description:
-      "Working as a Graduate Engineer Trainee within the Blockchain Team and Operations division, contributing to blockchain-based solutions and production workflows.",
+      "Bhumichain (Blockchain India Challenge MVP Round) – Manual Testing and Performance Testing. Annapurna Chain (Blockchain India Challenge MVP Round) – Performance Testing. CertCheck (V2) and Tata Tubes (client project for Tata Steel) – Continued work on both projects.",
     logo: "https://static.wixstatic.com/media/b6b3c9_8211f6d81cfd474c880e6bbcb82055ea~mv2.webp/v1/fill/w_108,h_88,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Vara-Logo.webp",
   },
   {
     period: "Jan 2026 – Aug 2026",
     role: "Intern – Blockchain Team and Op.",
     company: "Vara Infrovate Pvt. Ltd.",
-    type: "On-Site",
+    type: "On-Site, Kolkata",
     description:
-      "Building and maintaining web applications using modern frameworks. Gaining hands-on industry experience in agile workflows and production-grade codebases.",
+      "CertCheck (V2) – Core contributor to a blockchain-based document verification platform live in production for 3 months and generating revenue. Responsibilities included SRS document planning, microservices development (NestJS, RabbitMQ), frontend development (Next.js), QA testing (Swagger, Postman, Manual), VAPT testing, and performance testing (JMeter). Also worked on Tata Tubes (client project for Tata Steel) – QA (Manual Testing) and Support Role.",
     logo: "https://static.wixstatic.com/media/b6b3c9_8211f6d81cfd474c880e6bbcb82055ea~mv2.webp/v1/fill/w_108,h_88,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Vara-Logo.webp",
   },
 ];
@@ -137,7 +137,7 @@ export const education = [
     period: "2022 – 2026",
     degree: "B.Tech — Computer Science & Engineering",
     institution: "Kalyani Government Engineering College, Kalyani",
-    detail: "CGPA: 8.70",
+    detail: "CGPA: 8.58",
     description:
       "Focused on full-stack development, DSA, DBMS, OOP, Computer Networks, and Cyber Security. Solved 400+ problems on LeetCode (Max Rating: 1481) and competed on CodeChef (Max Rating: 1366).",
     logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWbwQChpVDAIt2sPfhh2upB3Q-4J9-sFLrxg&s",
